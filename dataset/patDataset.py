@@ -25,7 +25,6 @@ class patDataset(Dataset):
         #     data = self.process_fun(data_path, self.is_train, self.args)
         I = normalize_(np.load(data_path[0]), -1024, 1000)
         T = normalize_(np.load(data_path[1]), -1024, 1000)
-        # T = I
 
         return {
             "input": I,

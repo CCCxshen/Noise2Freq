@@ -9,10 +9,12 @@ Supervised Framework for LDCT Denoising<b>
 </div>
 <div style="page-break-after: always;"></div>
 
+## Framework
 <div align="center">
-    <img src="./image/image-20261009163625196.png" alt="image-20261009163625196" width="400" >
+    <img src="./image/image-20261009163625196.png" alt="image-20261009163625196" width="600" >
 </div>
 
+## Visualization
 <div align="center">
     <img src="./image/compare-ndct.jpg" alt="image-20261009163625196" width="800" >
 </div>
@@ -42,7 +44,7 @@ Supervised Framework for LDCT Denoising<b>
    2. `ndct`: Reproducing the results of training with `ndct only`.
 
    ---
-2. Run the $inference.py$ file and the results will be stored in the `inference` folder.
+2. Run the `inference.py` file and the results will be stored in the `inference` folder.
 
 
 
