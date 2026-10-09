@@ -10,7 +10,7 @@ Supervised Framework for LDCT Denoising<b>
 <div style="page-break-after: always;"></div>
 
 <div align="center">
-    <img src="./image/image-20261009163625196.png" alt="image-20261009163625196" width="400" >
+    <img src="./image/image-20261009163625196.png" alt="image-20261009163625196" width="600" >
 </div>
 
 <div align="center">
