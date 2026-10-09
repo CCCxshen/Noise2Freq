@@ -61,3 +61,6 @@ class MSELoss(nn.Module):
         
         return self.loss_weight * mse_loss(
             pred, target, weight, reduction=self.reduction)
+        
+def complex_mse_loss(input, target):
+    return torch.mean(torch.abs(input - target) ** 2)
