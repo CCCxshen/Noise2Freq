@@ -1,18 +1,20 @@
 <div style="width: 100%;
             text-align:center;" > 
     <div style="width: 100%; height: 100px;"></div>
-    <h1 style = "font-size: 80px;"> Noise2Freq </h1>
+    <h1 style = "font-size: 80px;"> Revisiting the Noise Independence Assumption: A Frequency-Consistent Self-
+Supervised Framework for LDCT Denoising </h1>
     <span>
-        <b>Revisiting the Noise Independence Assumption: A Frequency-Consistent Self-
-Supervised Framework for LDCT Denoising<b>		
+        <b><b>		
     </span>
 </div>
 <div style="page-break-after: always;"></div>
 
+## Framework
 <div align="center">
     <img src="./image/image-20261009163625196.png" alt="image-20261009163625196" width="600" >
 </div>
 
+## Visualization
 <div align="center">
     <img src="./image/compare-ndct.jpg" alt="image-20261009163625196" width="800" >
 </div>
