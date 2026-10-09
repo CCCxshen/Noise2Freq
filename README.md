@@ -42,7 +42,7 @@ Supervised Framework for LDCT Denoising<b>
    2. `ndct`: Reproducing the results of training with `ndct only`.
 
    ---
-2. Run the $inference.py$ file and the results will be stored in the `inference` folder.
+2. Run the `inference.py` file and the results will be stored in the `inference` folder.
 
 
 
